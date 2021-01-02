@@ -11,7 +11,7 @@
 
 2. **Main Store:**  This is where the user can look at the current fish available and choose what they would like to add to the their order.  The Main Store page is also built with authentication so that only the store owner can login and modify the inventory.  The order state is saved using localStorage and the inventory is saved using Firebase.
 
-A live demo of the site can be found [here](https://catchoftheday.larissagrayson.vercel.app/).
+A live demo of the site can be found [here](https://catchoftheday.larissagrayson.vercel.app/) and [here](https://catchoftheday.larissagrayson.vercel.app/store/panicky-elegant-diagnoses).
 
 **SKILLS DEMONSTRATED:**
 * Components (including Stateless Functional Components)
